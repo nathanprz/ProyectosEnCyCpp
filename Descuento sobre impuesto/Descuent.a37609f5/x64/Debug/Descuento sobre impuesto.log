@@ -1,0 +1,7 @@
+﻿  Descuento sobre impuesto.cpp
+C:\Users\Nathan\source\repos\Descuento sobre impuesto\Descuento sobre impuesto.cpp(17,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Nathan\source\repos\Descuento sobre impuesto\Descuento sobre impuesto.cpp(21,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Nathan\source\repos\Descuento sobre impuesto\Descuento sobre impuesto.cpp(34,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Nathan\source\repos\Descuento sobre impuesto\Descuento sobre impuesto.cpp(38,17): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Nathan\source\repos\Descuento sobre impuesto\Descuento sobre impuesto.cpp(49,9): warning C4476: 'printf' : carácter de tipo desconocido '\n' en el especificador de formato
+  Descuento sobre impuesto.vcxproj -> C:\Users\Nathan\source\repos\Descuento sobre impuesto\x64\Debug\Descuento sobre impuesto.exe
