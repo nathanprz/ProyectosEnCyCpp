@@ -1,0 +1,8 @@
+﻿  Dar cambio.cpp
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(21,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(27,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(33,28): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(39,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(45,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Nathan\source\repos\Dar cambio\Dar cambio.cpp(51,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Dar cambio.vcxproj -> C:\Users\Nathan\source\repos\Dar cambio\x64\Debug\Dar cambio.exe
